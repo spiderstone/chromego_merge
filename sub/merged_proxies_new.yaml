@@ -552,7 +552,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: China_Wuhan_vmess_1120
+  name: China_None_vmess_1120
   network: ws
   port: '41315'
   server: a.lyazzz.online
@@ -823,7 +823,7 @@ proxy-groups:
   - China_Shenzhen_ss_1117
   - Japan_Tokyo_trojan_1118
   - Japan_Tokyo_trojan_1119
-  - China_Wuhan_vmess_1120
+  - China_None_vmess_1120
   - South Korea_None_ss_1121
   - Japan_Tokyo_trojan_1122
   - Japan_Tokyo_trojan_1123
@@ -901,7 +901,7 @@ proxy-groups:
   - China_Shenzhen_ss_1117
   - Japan_Tokyo_trojan_1118
   - Japan_Tokyo_trojan_1119
-  - China_Wuhan_vmess_1120
+  - China_None_vmess_1120
   - South Korea_None_ss_1121
   - Japan_Tokyo_trojan_1122
   - Japan_Tokyo_trojan_1123
